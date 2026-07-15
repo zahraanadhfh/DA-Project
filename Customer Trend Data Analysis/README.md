@@ -1,6 +1,6 @@
 # 📊 Customer Behaviour Trend Dashboard
 
-![Dashboard Preview]()
+## Dashboard Preview
 <img width="1307" height="740" alt="image" src="https://github.com/user-attachments/assets/55bddd32-160f-40cd-87fd-39c633951d37" />
 
 ## 👋 Tentang Dashboard Ini
