@@ -13,8 +13,8 @@
 
 ## 🛠️ Tools & Teknologi
 
-- **Jupyter Notebook** — sebagian besar analisis dilakukan dalam format `.ipynb`
-- **Python** — pandas, numpy, matplotlib/seaborn (atau library lain sesuai proyek)
+- **Jupyter Notebook & Google Colab** — sebagian besar analisis dilakukan dalam format `.ipynb`
+- **Python** — pandas, numpy, matplotlib/seaborn
 - **SQL** — untuk sebagian analisis berbasis database
 
 ## 👤 Author
