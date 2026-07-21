@@ -1,6 +1,5 @@
 # 💰 Finance Analysis Dashboard
 
-![Finance Analysis Dashboard]
 <img width="1342" height="707" alt="Dashboard FinanceAnalysis" src="https://github.com/user-attachments/assets/fd366b09-eb8c-4be1-be25-cf0d444c0840" />
 
 ## 👋 Tentang Dashboard Ini
