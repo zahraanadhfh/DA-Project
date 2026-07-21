@@ -4,7 +4,7 @@
 
 ## 👋 Tentang Dashboard Ini
 
-Dashboard **"finalysis"** ini saya buat untuk memberikan *real-time insight* terhadap transaksi keuangan, perilaku pelanggan, dan risiko bisnis. Dibuat menggunakan **Power BI**, dashboard ini terdiri dari dua halaman utama — **Overview Analysis** dan **Transactions** — dengan panel filter interaktif di sisi kiri sehingga data bisa dieksplorasi sesuai kebutuhan.
+Dashboard **"finalysis"** ini saya buat untuk memberikan *real-time insight* terhadap transaksi keuangan, perilaku pelanggan, dan risiko bisnis. Dibuat menggunakan **Power BI**, dashboard ini terdiri dari dua halaman utama - **Overview Analysis** dan **Transactions** - dengan panel filter interaktif di sisi kiri sehingga data bisa dieksplorasi sesuai kebutuhan.
 
 ---
 
@@ -33,7 +33,7 @@ Tombol **Clear All Slicers** memudahkan reset seluruh filter ke kondisi awal.
 | **Total Fees** | 726.24K | +0.44 |
 | **Total Tax** | 130.74K | +0.44 |
 
-*"Dari lima kartu KPI ini, saya bisa langsung melihat kesehatan transaksi secara umum — total nilai transaksi naik signifikan 43% dibanding tahun sebelumnya, jadi tren pertumbuhannya positif."*
+*"Dari lima kartu KPI ini, saya bisa langsung melihat kesehatan transaksi secara umum - total nilai transaksi naik signifikan 43% dibanding tahun sebelumnya, jadi tren pertumbuhannya positif."*
 
 ---
 
